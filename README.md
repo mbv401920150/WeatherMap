@@ -32,3 +32,7 @@ Date       Avg Temp(F)
 3/11/2017  16.64 F
 
 3/12/2017* 11.71 F
+
+
+# Online Solution:
+[https://dotnetfiddle.net/3N4NgL](https://dotnetfiddle.net/3N4NgL)
